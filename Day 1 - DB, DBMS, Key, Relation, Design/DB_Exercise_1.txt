@@ -1,0 +1,23 @@
+A customer, a bookseller, build an online business to sell books.
+He wants a website where:
+- Users can register and create an account.
+- Users can view the different books offered.
+- Read the biography of each author.
+- Order one or multiple book.
+- Find the order history.
+
+Partie 1 - Modélisation de la B.D.D. : 
+	- Déterminez les données que le client à besoin d'enregistrer dans la base de données.
+	- Déterminez les entités (tables) qui découlent de ces données.
+	- Identifiez les relations entre les différentes tables.
+	- Identifiez les cardinalités de ces relations.
+	- Identifiez tous les attributs (pour chaque table).
+	- Créer le diagramme relationnel de la B.D.D.
+
+Part 1 - Modeling of the D.B. :
+- Determine what data the customer needs to save in the database.
+- Determine the entities (tables) that result from these data.
+- Identify all the attributes (for each table).
+- Identify the relationships between the different tables.
+- Identify the cardinalities of these relationships.
+- Create the relational diagram of the B.D.D.
