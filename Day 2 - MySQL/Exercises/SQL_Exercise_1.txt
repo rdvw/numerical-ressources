@@ -1,12 +1,25 @@
 Part 1 :
 
 - Get all the information from each movie
+	SELECT *
+	FROM movies
+
 - Get the title of each movie
+	SELECT title
+	FROM movies
+
 - Get the title and year of release of each movie
+	SELECT title, release_year
+	FROM movies
 
 Part 2 :
 - Retrieve the title of each movie, sorted alphabetically
+	SELECT *
+	FROM movies
+
 - List all directors in alphabetical order and without duplicate
+	SELECT *
+	FROM movies
 
 Part 3:
 - Recover the movie with id 5
