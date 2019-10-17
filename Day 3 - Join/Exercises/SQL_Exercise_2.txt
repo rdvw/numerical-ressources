@@ -1,0 +1,7 @@
+In this exercises, we will use the 'series' table.
+
+
+- Retrieve all series and movies (in one set of results) with name of director.
+- Retrieve all series and movies from 2018 with nationality.
+- Get the number of views per director (movies and series combined). Print the name of the director.
+- Get the number of views per director (movies and series separated). Print the name of the director.
